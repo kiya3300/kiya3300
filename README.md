@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Abel
 
 - 🔭 I’m currently working on two personal projects, Telegram Bot and Voice assistant. & frontier wallet
 - 🌱 I’m currently learning at Alx/Holberton School learning fullstack software engineering.
