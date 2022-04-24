@@ -18,3 +18,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiya3300&exclude_repo=github-readme-stats,kiya3300.github.io)](https://github.com/kiya3300/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiya3300&layout=compact)](https://github.com/kiya3300/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiya3300&repo=github-readme-stats)](https://github.com/kiya3300/github-readme-stats)
+
+## Wakatime Week Stats
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
