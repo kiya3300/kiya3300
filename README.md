@@ -19,12 +19,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiya3300&layout=compact)](https://github.com/kiya3300/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kiya3300&repo=github-readme-stats)](https://github.com/kiya3300/github-readme-stats)
 
-## Wakatime Week Stats
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/kiya3300/github-readme-stats)
-<a href="https://github.com/kiya3300/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiya3300&repo=github-readme-stats" />
-</a>
 <a href="https://github.com/kiya3300/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kiya3300&repo=convoychat" />
-</a>
