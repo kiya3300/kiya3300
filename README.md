@@ -7,7 +7,7 @@
 - 💬 Ask me about flutter or any tech related stuff.
 - 📫 How to reach me: Istagram - atticus._.0
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend almost 10 hours running code everyday
+- ⚡ Fun fact: A cup of tea is all what need
 
 ## My GitHub Stats
 
