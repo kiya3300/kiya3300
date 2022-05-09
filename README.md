@@ -1,5 +1,20 @@
 # Hi there 👋 I'm Abel
 
+                                           Full-Stack S0ftware Engineer Student, GitHub Campus Expert and an AI enthusiast
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+                                           
+
 - 🔭 I’m currently working on two personal projects, Telegram Bot and Voice assistant. & frontier wallet
 - 🌱 I’m currently learning at Alx/Holberton School learning fullstack software engineering.
 - 👯 I’m looking to collaborate on C/C++, react projects.
