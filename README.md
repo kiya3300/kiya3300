@@ -5,7 +5,6 @@
 ### Profile Trophy                                                               
 [![trophy](https://github-profile-trophy.vercel.app/?username=kiya3300)](https://github.com/kiya3300/github-profile-trophy)
 ### Add optional parameter of the theme.
-[![trophy](https://github-profile-trophy.vercel.app/?username=kiya3300&theme=onedark)](https://github.com/kiya3300/github-profile-trophy)   
 - 🔭 I’m currently working on two personal projects, Telegram Bot and Voice assistant. & frontier wallet
 - 🌱 I’m graduated student from Alx/Holberton School learning fullstack software engineering.
 - 👯 I’m looking to collaborate on C/C++, react projects.
