@@ -1,16 +1,9 @@
 # Hi there 👋 I'm Abel
 
-                       🏆 Full-Stack S0ftware Engineer Student, GitHub Campus Expert and an AI enthusiast
+                       🏆 Full-Stack AI andS0ftware Engineer
 ## Quick Start                                                                
-### Profile Trophy                                                               
 [![trophy](https://github-profile-trophy.vercel.app/?username=kiya3300)](https://github.com/kiya3300/github-profile-trophy)
-### Add optional parameter of the theme.
-- 🔭 I’m currently working on two personal projects, Telegram Bot and Voice assistant. & frontier wallet
-- 👯 I’m looking to collaborate on C/C++, react projects.
-- 🤔 I’m looking for help with VelocityX documentation.
-- 💬 Ask me about React, Golang Django or any tech related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: A cup of tea is all what need
+
 
 ## My GitHub Stats
 
